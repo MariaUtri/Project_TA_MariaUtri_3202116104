@@ -1,0 +1,8 @@
+
+User-agent: *
+Allow: /
+
+Disallow: /login
+Disallow: /admin
+
+Sitemap: https://maria.amd-kom.my.id/sitemap.xml  
